@@ -1,5 +1,5 @@
 {
-  "name": "wow-utils",
+  "name": "wow-utils-nodejs",
   "version": "1.0.0",
   "type": "module",
   "description": "A collection of utility functions",
