@@ -1,0 +1,24 @@
+{
+  "name": "wow-utils-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A collection of utility functions",
+  "main": "src/index.js",
+  "exports": {
+    "./date": "./src/Date/index.js",
+    "./eventemitter": "./src/EventEmitter/index.js",
+    "./file": "./src/File/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utility",
+    "utils",
+    "functions",
+    "logger",
+    "event emitter"
+  ],
+  "author": "Samuel Machado Rodrigues",
+  "license": "MIT"
+}
